@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Mukaddes</h1>
 <h3>Mobile Developer</h3>
 
-  <img src="./animation.gif" 
+  <img src="./animation_2.gif" 
   alt="gif" 
   height="300"
   width="300" />
