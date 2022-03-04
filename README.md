@@ -3,7 +3,7 @@
 
   <img src="./animation_2.gif" 
   alt="gif" 
-  height="300"
+  height="250"
   width="300" />
 
 - 🔭 I’m currently learning **React JS**
@@ -36,6 +36,14 @@
   <a href="https://flutter.dev" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+      alt="flutter"
+      width="40"
+      height="40"
+    /> </a
+  >
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
+    <img
+      src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png"
       alt="flutter"
       width="40"
       height="40"
